@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/trojan-diner/static/js/main.a997809a.js",
+    "main.js": "/trojan-diner/static/js/main.d80d845e.js",
     "index.html": "/trojan-diner/index.html",
-    "main.a997809a.js.map": "/trojan-diner/static/js/main.a997809a.js.map"
+    "main.d80d845e.js.map": "/trojan-diner/static/js/main.d80d845e.js.map"
   },
   "entrypoints": [
-    "static/js/main.a997809a.js"
+    "static/js/main.d80d845e.js"
   ]
 }
