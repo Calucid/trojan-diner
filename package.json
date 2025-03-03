@@ -2,7 +2,7 @@
   "name": "websitetemplate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-username.github.io/repo-name",
+"homepage": "https://calucid.github.io/trojan-diner",
   "dependencies": {
     "@chakra-ui/icons": "^2.2.4",
     "@chakra-ui/react": "^2.8.2",
