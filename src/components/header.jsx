@@ -9,7 +9,7 @@ const HEADER_TEXT_COLOR = "white";
 const LINK_HOVER_COLOR = "gray";
 
 // Website Name
-const LogoName = "Calucid Template";
+const LogoName = "Trojan Diner & Sports Bar";
 
 // Page Links Configuration
 const PAGES = [

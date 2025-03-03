@@ -78,24 +78,12 @@ const Home = () => {
         <Text fontSize="lg" mb={6}>
           Call us: (123) 456-7890
         </Text>
-        <Button as={Link} to="/contact" colorScheme="red">
+        <Button as={Link} to="/visit" colorScheme="red">
           Get Directions
         </Button>
       </Container>
 
-      {/* Footer */}
-      <Box bg="gray.900" color="white" py={6}>
-        <Container maxW="container.xl">
-          <Flex direction={{ base: "column", md: "row" }} justify="space-between" align="center">
-            <Text>&copy; {new Date().getFullYear()} Trojan Diner & Sports Bar. All rights reserved.</Text>
-            <HStack spacing={4}>
-              <IconButton as="a" href="#" icon={<FaFacebook />} aria-label="Facebook" variant="ghost" color="white" />
-              <IconButton as="a" href="#" icon={<FaInstagram />} aria-label="Instagram" variant="ghost" color="white" />
-              <IconButton as="a" href="#" icon={<FaTwitter />} aria-label="Twitter" variant="ghost" color="white" />
-            </HStack>
-          </Flex>
-        </Container>
-      </Box>
+
     </Box>
   );
 };
